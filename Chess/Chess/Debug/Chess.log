@@ -1,0 +1,11 @@
+﻿  board.cpp
+D:\NOTES\2020-21 term 1\CSCI1120A\Project\Chess-Starter\board.cpp(8,10): fatal error C1083: Cannot open include file: 'knight.h': No such file or directory
+  human.cpp
+D:\NOTES\2020-21 term 1\CSCI1120A\Project\Chess-Starter\human.cpp(32,38): error C2065: 'x1': undeclared identifier
+D:\NOTES\2020-21 term 1\CSCI1120A\Project\Chess-Starter\human.cpp(32,42): error C2065: 'y2': undeclared identifier
+D:\NOTES\2020-21 term 1\CSCI1120A\Project\Chess-Starter\human.cpp(32,46): error C2065: 'x2': undeclared identifier
+  king.cpp
+  player.cpp
+  rook.cpp
+  Generating Code...
+D:\NOTES\2020-21 term 1\CSCI1120A\Project\Chess-Starter\player.cpp(25): error C4716: 'Player::getPiece': must return a value
